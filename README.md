@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waterscape03
 - 👀 I’m interested in programming, cryptocurrency, and other.
-- 🌱 I’m currently learning Python, C, C#.
+- 🌱 I’m currently learning Python, web development, ML, etc.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me: tg: @waterscape03, instagram: @levchykk.
 
